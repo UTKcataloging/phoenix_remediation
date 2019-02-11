@@ -2,6 +2,7 @@
 <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
 <identifier type="local">phoenix_1979winter</identifier>
 <identifier type="pid">phoenix:3407</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1979</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -33,9 +34,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1972fall</identifier>
 <identifier type="pid">phoenix:2533</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1972</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -67,9 +70,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1963fall</identifier>
 <identifier type="pid">phoenix:631</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1963</title><partNumber>volume 5, number 1</partNumber></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -101,9 +106,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1984spring</identifier>
 <identifier type="pid">phoenix:4036</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1984</title><partNumber>volume 25, number 3</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -135,9 +142,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1991spring</identifier>
 <identifier type="pid">phoenix:4750</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1991</title><partNumber>volume 32, issue 2</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -169,9 +178,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1992fall</identifier>
 <identifier type="pid">phoenix:4787</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1992</title><partNumber>volume 34, issue 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -203,9 +214,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2000march</identifier>
 <identifier type="pid">phoenix:6351</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, March 2000</title></titleInfo>
 <abstract>40th anniversary issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -237,9 +250,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1967march</identifier>
 <identifier type="pid">phoenix:2136</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, March 1967</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -271,9 +286,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1997fall-photo</identifier>
 <identifier type="pid">phoenix:5103</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1997, volume 38, issue 2</title></titleInfo>
 <abstract>Black and white photography issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -305,9 +322,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2006fall</identifier>
 <identifier type="pid">phoenix:5713</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 2006</title><partNumber>volume 48, issue 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -339,9 +358,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1974fall</identifier>
 <identifier type="pid">phoenix:2732</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1974</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -373,9 +394,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2012spring</identifier>
 <identifier type="pid">phoenix:6232</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 2012</title><partNumber>volume 53, number 2</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -407,9 +430,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2002spring</identifier>
 <identifier type="pid">phoenix:5505</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 2002</title><partNumber>volume 43, issue 2</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -441,9 +466,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1985spring</identifier>
 <identifier type="pid">phoenix:4155</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1985</title><partNumber>volume 26, number 3</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -475,9 +502,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1976spring</identifier>
 <identifier type="pid">phoenix:3000</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1976</title></titleInfo>
 <abstract>Art and the individual issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -509,9 +538,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2005spring</identifier>
 <identifier type="pid">phoenix:5672</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 2005</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -543,9 +574,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1971spring</identifier>
 <identifier type="pid">phoenix:2479</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1971</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -577,9 +610,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1966fall</identifier>
 <identifier type="pid">phoenix:2086</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1966</title></titleInfo>
 <abstract>Harvard Lampoon parody issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -611,9 +646,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1982fall</identifier>
 <identifier type="pid">phoenix:3777</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1982</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -645,9 +682,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1959fall</identifier>
 <identifier type="pid">phoenix:421</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1959</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -679,9 +718,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1973winter</identifier>
 <identifier type="pid">phoenix:2695</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1973</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -713,9 +754,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1989spring</identifier>
 <identifier type="pid">phoenix:4582</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1989</title><partNumber>volume 30, issue 2</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -747,9 +790,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2009spring</identifier>
 <identifier type="pid">phoenix:5887</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 2009</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -781,9 +826,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1973spring</identifier>
 <identifier type="pid">phoenix:2642</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1973</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -815,9 +862,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1969fall</identifier>
 <identifier type="pid">phoenix:2332</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1969</title><partNumber>volume 11, number 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -849,9 +898,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1971fall</identifier>
 <identifier type="pid">phoenix:2454</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1971</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -883,9 +934,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1985winter</identifier>
 <identifier type="pid">phoenix:4192</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1985</title><partNumber>volume 26, number 2</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -917,9 +970,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1971winter</identifier>
 <identifier type="pid">phoenix:2508</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1971</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -951,9 +1006,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1998springfiction</identifier>
 <identifier type="pid">phoenix:5267</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1998 (fiction edition)</title></titleInfo>
 <abstract>Fiction edition.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -985,9 +1042,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1990fall</identifier>
 <identifier type="pid">phoenix:4623</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1990</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1019,9 +1078,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1962summer</identifier>
 <identifier type="pid">phoenix:597</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, summer 1962</title><partNumber>volume 3, number 3</partNumber></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1053,9 +1114,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1987winter</identifier>
 <identifier type="pid">phoenix:4353</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1987</title><partNumber>volume 29, number 2</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1087,9 +1150,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1976winter</identifier>
 <identifier type="pid">phoenix:3370</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1976</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1121,9 +1186,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1961winter</identifier>
 <identifier type="pid">phoenix:542</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1961</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1155,9 +1222,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2013fall</identifier>
 <identifier type="pid">phoenix:6195</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 2013</title><partNumber>volume 55, issue 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1189,9 +1258,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2009fall</identifier>
 <identifier type="pid">phoenix:5852</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 2009</title><partNumber>volume 51, issue 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1223,9 +1294,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1968summer</identifier>
 <identifier type="pid">phoenix:2286</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, summer 1968</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1257,9 +1330,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1981fall</identifier>
 <identifier type="pid">phoenix:3629</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1981</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1291,9 +1366,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1962spring</identifier>
 <identifier type="pid">phoenix:580</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1962</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1325,9 +1402,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1997fall</identifier>
 <identifier type="pid">phoenix:5066</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1997</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1359,9 +1438,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1980winter</identifier>
 <identifier type="pid">phoenix:3666</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1980</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1393,9 +1474,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1968fall</identifier>
 <identifier type="pid">phoenix:2236</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1968</title><partNumber>volume 10, number 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1427,9 +1510,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1963summer</identifier>
 <identifier type="pid">phoenix:652</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, summer 1963</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1461,9 +1546,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1960winter</identifier>
 <identifier type="pid">phoenix:493</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1960</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1495,9 +1582,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1987fall</identifier>
 <identifier type="pid">phoenix:4295</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1987</title><partNumber>volume 29, number 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1529,9 +1618,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1972winter</identifier>
 <identifier type="pid">phoenix:2586</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1972</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1563,9 +1654,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1993fall</identifier>
 <identifier type="pid">phoenix:4861</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1993</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1597,9 +1690,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1961summer</identifier>
 <identifier type="pid">phoenix:527</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, summer 1961</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1631,9 +1726,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1994spring</identifier>
 <identifier type="pid">phoenix:4902</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1994</title></titleInfo>
 <abstract>Black and white issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1665,9 +1762,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1976fall</identifier>
 <identifier type="pid">phoenix:2963</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1976</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1699,9 +1798,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1965fall</identifier>
 <identifier type="pid">phoenix:2032</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1965</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1733,9 +1834,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1991fall</identifier>
 <identifier type="pid">phoenix:4709</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1991</title><partNumber>volume 32, issue 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1767,9 +1870,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1974winter</identifier>
 <identifier type="pid">phoenix:2812</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1974</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1801,9 +1906,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2004spring</identifier>
 <identifier type="pid">phoenix:5614</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 2004</title><partNumber>volume 45, number 1</partNumber></titleInfo>
 <abstract>Inspiration issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1835,9 +1942,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1970spring</identifier>
 <identifier type="pid">phoenix:2386</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1970</title><partNumber>volume 11, number 3</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1869,9 +1978,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2001spring</identifier>
 <identifier type="pid">phoenix:5364</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 2001, volume 42, issue 2</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1903,9 +2014,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1987spring</identifier>
 <identifier type="pid">phoenix:4324</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1987</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1937,9 +2050,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2010fall</identifier>
 <identifier type="pid">phoenix:5951</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 2010</title><partNumber>volume 52, issue 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -1971,9 +2086,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1970winter</identifier>
 <identifier type="pid">phoenix:2421</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1970</title></titleInfo>
 <abstract>Revolution - Evolution issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2005,9 +2122,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1978winter</identifier>
 <identifier type="pid">phoenix:3703</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1978</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2039,9 +2158,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1997spring</identifier>
 <identifier type="pid">phoenix:5164</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1997</title><partNumber>volume 38, number 3</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2073,9 +2194,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1960spring</identifier>
 <identifier type="pid">phoenix:455</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1960</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2107,9 +2230,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1967spring</identifier>
 <identifier type="pid">phoenix:2186</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1967</title><partNumber>volume 8, number 5</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2141,9 +2266,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1983spring</identifier>
 <identifier type="pid">phoenix:3925</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1983</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2175,9 +2302,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2001spring-dreams</identifier>
 <identifier type="pid">phoenix:5429</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 2001, volume 42, issue 1</title></titleInfo>
 <abstract>Dreams and unconsciousness issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2209,9 +2338,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1982winter</identifier>
 <identifier type="pid">phoenix:3851</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1982</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2243,9 +2374,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2008fall</identifier>
 <identifier type="pid">phoenix:5791</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 2008</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2277,9 +2410,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1972spring</identifier>
 <identifier type="pid">phoenix:2565</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1972</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2311,9 +2446,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2011spring</identifier>
 <identifier type="pid">phoenix:6105</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 2011</title><partNumber>volume 52, number 2</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2345,9 +2482,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1973fall</identifier>
 <identifier type="pid">phoenix:2607</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1973</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2379,9 +2518,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1967policecover</identifier>
 <identifier type="pid">phoenix:2161</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, 1967</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2413,9 +2554,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1977spring</identifier>
 <identifier type="pid">phoenix:3518</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1977</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2447,9 +2590,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1963winter</identifier>
 <identifier type="pid">phoenix:672</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1963</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2481,9 +2626,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1974spring-supplement</identifier>
 <identifier type="pid">phoenix:2799</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Poetry workshop: supplement to the Phoenix, spring 1974</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2515,9 +2662,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1974spring</identifier>
 <identifier type="pid">phoenix:2766</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1974</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2549,9 +2698,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1961spring</identifier>
 <identifier type="pid">phoenix:510</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1961</title></titleInfo>
 <abstract>Poetry issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2583,9 +2734,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1979fall</identifier>
 <identifier type="pid">phoenix:3444</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1979</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2617,9 +2770,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1988fall</identifier>
 <identifier type="pid">phoenix:4467</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1988</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2651,9 +2806,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1983fall</identifier>
 <identifier type="pid">phoenix:3888</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1983</title><partNumber>volume 25, number 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2685,9 +2842,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1964spring</identifier>
 <identifier type="pid">phoenix:710</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1964</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2719,9 +2878,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1970fall</identifier>
 <identifier type="pid">phoenix:2361</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1970</title><partNumber>volume 12, number 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2753,9 +2914,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1990spring</identifier>
 <identifier type="pid">phoenix:4664</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1990</title><partNumber>volume 31, issue 2</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2787,9 +2950,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2010spring</identifier>
 <identifier type="pid">phoenix:5988</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 2010</title><partNumber>volume 51, number 2</partNumber></titleInfo>
 <abstract>50th anniversary issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2821,9 +2986,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2006spring</identifier>
 <identifier type="pid">phoenix:5750</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 2006</title></titleInfo>
 <abstract>Music issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2855,9 +3022,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1967winter</identifier>
 <identifier type="pid">phoenix:2211</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1967</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2889,9 +3058,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1998springcultural</identifier>
 <identifier type="pid">phoenix:5230</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1998 (Cultural exploration issue)</title></titleInfo>
 <abstract>Cultural exploration issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2923,9 +3094,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2004fall</identifier>
 <identifier type="pid">phoenix:5581</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 2004</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2957,9 +3130,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1986spring</identifier>
 <identifier type="pid">phoenix:4258</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1986</title><partNumber>volume 27, number 2</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -2991,9 +3166,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1960summer</identifier>
 <identifier type="pid">phoenix:476</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, summer 1960</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3025,9 +3202,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2000spring</identifier>
 <identifier type="pid">phoenix:6314</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 2000</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3059,9 +3238,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1984winter</identifier>
 <identifier type="pid">phoenix:4073</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1984</title><partNumber>volume 25, number 2</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3093,9 +3274,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1978spring</identifier>
 <identifier type="pid">phoenix:3481</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1978</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3127,9 +3310,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1996fall</identifier>
 <identifier type="pid">phoenix:5025</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1996</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3161,9 +3346,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1964fall</identifier>
 <identifier type="pid">phoenix:689</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1964</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3195,9 +3382,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1989fall</identifier>
 <identifier type="pid">phoenix:4529</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1989</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3229,9 +3418,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1998fall</identifier>
 <identifier type="pid">phoenix:5193</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1998</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3263,9 +3454,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1988spring</identifier>
 <identifier type="pid">phoenix:4500</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1988</title><partNumber>volume 29, number 3</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3297,9 +3490,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2003spring</identifier>
 <identifier type="pid">phoenix:5540</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 2003</title></titleInfo>
 <abstract>Hollywood issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3331,9 +3526,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1985fall</identifier>
 <identifier type="pid">phoenix:4110</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1985</title><partNumber>volume 27, number 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3365,9 +3562,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1977fall</identifier>
 <identifier type="pid">phoenix:3333</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1977</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3399,9 +3598,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2013spring</identifier>
 <identifier type="pid">phoenix:6277</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 2013</title><partNumber>volume 54, issue 2</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3433,9 +3634,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2005fall</identifier>
 <identifier type="pid">phoenix:5651</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 2005</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3467,9 +3670,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1986fall</identifier>
 <identifier type="pid">phoenix:4229</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1986</title><partNumber>volume 27, number 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3501,9 +3706,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1975spring</identifier>
 <identifier type="pid">phoenix:2881</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1975</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3535,9 +3742,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1983winter</identifier>
 <identifier type="pid">phoenix:3962</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1983</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3569,9 +3778,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1995spring</identifier>
 <identifier type="pid">phoenix:4980</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1995</title></titleInfo>
 <abstract>Mandatory information issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3603,9 +3814,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1975winter</identifier>
 <identifier type="pid">phoenix:2922</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1975</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3637,9 +3850,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1987winter-supplement</identifier>
 <identifier type="pid">phoenix:4410</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1987 (supplement)</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3671,9 +3886,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1982spring</identifier>
 <identifier type="pid">phoenix:3814</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1982</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3705,9 +3922,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1995fall</identifier>
 <identifier type="pid">phoenix:4955</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1995</title></titleInfo>
 <abstract>The Elvis issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3739,9 +3958,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1981spring</identifier>
 <identifier type="pid">phoenix:3592</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1981</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3773,9 +3994,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1960fall</identifier>
 <identifier type="pid">phoenix:438</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1960</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3807,9 +4030,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2000fall</identifier>
 <identifier type="pid">phoenix:6428</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 2000</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3841,9 +4066,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1999spring</identifier>
 <identifier type="pid">phoenix:5323</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1999</title></titleInfo>
 <abstract>Fear and power issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3875,9 +4102,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2012fall</identifier>
 <identifier type="pid">phoenix:6158</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 2012</title><partNumber>volume 54, issue 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3909,9 +4138,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1992spring</identifier>
 <identifier type="pid">phoenix:4824</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1992</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3943,9 +4174,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1975fall</identifier>
 <identifier type="pid">phoenix:2845</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1975</title></titleInfo>
 <abstract>Performing arts issue.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -3977,9 +4210,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1981winter</identifier>
 <identifier type="pid">phoenix:3555</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1981</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -4011,9 +4246,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1967fall</identifier>
 <identifier type="pid">phoenix:2111</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1967</title><partNumber>volume 9, number 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -4045,9 +4282,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_2002fall</identifier>
 <identifier type="pid">phoenix:5468</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 2002</title><partNumber>volume 44, issue 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -4079,9 +4318,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1965winter</identifier>
 <identifier type="pid">phoenix:2065</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1965</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -4113,9 +4354,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1962fall</identifier>
 <identifier type="pid">phoenix:563</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1962</title></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -4147,9 +4390,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1968spring</identifier>
 <identifier type="pid">phoenix:2265</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, spring 1968</title><partNumber>volume 9, number 3</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -4181,9 +4426,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1968winter</identifier>
 <identifier type="pid">phoenix:2311</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1968</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -4215,9 +4462,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1984fall</identifier>
 <identifier type="pid">phoenix:3999</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1984</title><partNumber>volume 26, number 1</partNumber></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -4249,9 +4498,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1962winter</identifier>
 <identifier type="pid">phoenix:614</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1962</title><partNumber>volume 3, number 1</partNumber></titleInfo>
 <abstract>Orange and white literary supplement.</abstract>
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -4283,9 +4534,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1977winter</identifier>
 <identifier type="pid">phoenix:3740</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, winter 1977</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -4317,9 +4570,11 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
+
 <mods>
 <identifier type="local">phoenix_1999fall</identifier>
 <identifier type="pid">phoenix:5286</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>Phoenix, fall 1999</title></titleInfo>
 
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
@@ -4350,4 +4605,5 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods></modsCollection>
+</mods>
+</modsCollection>

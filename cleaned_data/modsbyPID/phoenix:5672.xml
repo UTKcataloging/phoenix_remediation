@@ -6,6 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">phoenix_2005spring</identifier>
    <identifier type="pid">phoenix:5672</identifier>
+   <identifier type="issn">2641-4562</identifier>
    <titleInfo supplied="yes">
       <title>Phoenix, spring 2005</title>
    </titleInfo>

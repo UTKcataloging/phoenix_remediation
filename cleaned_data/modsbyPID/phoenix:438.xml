@@ -6,6 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">phoenix_1960fall</identifier>
    <identifier type="pid">phoenix:438</identifier>
+   <identifier type="issn">2641-4562</identifier>
    <titleInfo supplied="yes">
       <title>Phoenix, fall 1960</title>
    </titleInfo>

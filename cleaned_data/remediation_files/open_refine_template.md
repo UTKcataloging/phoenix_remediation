@@ -15,6 +15,7 @@
 <mods>
 <identifier type="local">{{cells["identifier"].value}}</identifier>
 <identifier type="pid">{{cells["PID"].value}}</identifier>
+<identifier type="issn">2641-4562</identifier>
 <titleInfo supplied="yes"><title>{{cells['title'].value}}</title>{{if(isBlank(cells['volume_number'].value), '', '<partNumber>' + cells['volume_number'].value + '</partNumber>')}}</titleInfo>
 {{if(isBlank(cells['note'].value), '', '<abstract>' + cells['note'].value + '</abstract>')}}
 <abstract>Phoenix is a student-led literary publication, showcasing the creative output of UT's diverse student population, including photography, illustration, poetry, fiction, non-fiction, and interviews.</abstract>
